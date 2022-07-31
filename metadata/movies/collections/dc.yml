@@ -1,0 +1,10 @@
+external_templates:
+  - repo: /metadata/_templates
+
+collections:
+
+  DC Extended Universe:
+    template: {name: Collection, collection_trakt: https://trakt.tv/users/tetharion/lists/worlds-of-dc, order: release}
+    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/DC_Extended_Universe/poster.png
+    url_background: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/DC_Extended_Universe/background.png
+    summary: The DC Extended Universe (DCEU) is a series of superhero films, distributed by Warner Bros. Pictures and based on characters that appear in American comic books by DC Comics. The shared universe, much like the original DC Universe in comic books and the television programs, was established by crossing over common plot elements, settings, cast, and characters.

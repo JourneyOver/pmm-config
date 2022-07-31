@@ -1,0 +1,32 @@
+metadata:
+
+#Jurassic Park:
+  "Jurassic Park (1993)":
+    title: "Jurassic Park"
+    year: 1993
+    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Jurassic_Park/Jurassic_Park_(1993)/poster.png
+
+  "The Lost World: Jurassic Park (1997)":
+    title: "The Lost World: Jurassic Park"
+    year: 1997
+    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Jurassic_Park/The_Lost_World_-_Jurassic_Park_(1997)/poster.png
+
+  "Jurassic Park III (2001)":
+    title: "Jurassic Park III"
+    year: 2001
+    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Jurassic_Park/Jurassic_Park_III_(2001)/poster.png
+
+  "Jurassic World (2015)":
+    title: "Jurassic World"
+    year: 2015
+    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Jurassic_Park/Jurassic_World_(2015)/poster.png
+
+  "Jurassic World: Fallen Kingdom (2018)":
+    title: "Jurassic World: Fallen Kingdom"
+    year: 2018
+    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Jurassic_Park/Jurassic_World_-_Fallen_Kingdom_(2018)/poster.png
+
+  "Jurassic World Dominion (2022)":
+    title: "Jurassic World Dominion"
+    year: 2022
+    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Jurassic_Park/Jurassic_World_Dominion_(2022)/poster.png

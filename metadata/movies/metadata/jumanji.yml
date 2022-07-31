@@ -1,0 +1,17 @@
+metadata:
+
+#Jumanji:
+  "Jumanji (1995)":
+    title: "Jumanji"
+    year: 1995
+    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Jumanji/Jumanji_(1995)/poster.png
+
+  "Jumanji: Welcome to the Jungle (2017)":
+    title: "Jumanji: Welcome to the Jungle"
+    year: 2017
+    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Jumanji/Jumanji_-_Welcome_to_the_Jungle_(2017)/poster.png
+
+  "Jumanji: The Next Level (2019)":
+    title: "Jumanji: The Next Level"
+    year: 2019
+    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Jumanji/Jumanji_-_The_Next_Level_(2019)/poster.png

@@ -1,0 +1,17 @@
+metadata:
+
+#Before:
+  "Before Sunrise (1995)":
+    title: "Before Sunrise"
+    year: 1995
+    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Before/Before_Sunrise_(1995)/poster.png
+
+  "Before Sunset (2004)":
+    title: "Before Sunset"
+    year: 2004
+    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Before/Before_Sunset_(2004)/poster.png
+
+  "Before Midnight (2013)":
+    title: "Before Midnight"
+    year: 2013
+    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Before/Before_Midnight_(2013)/poster.png
