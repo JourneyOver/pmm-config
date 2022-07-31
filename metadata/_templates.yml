@@ -10,16 +10,12 @@ templates:
       - collection_letterbox
       - extra_movie
       - summary
-      - poster
-      - background
       - order
     tmdb_collection: <<collection>>
     tmdb_summary: <<summary>>
     tmdb_movie: <<extra_movie>>
     trakt_list: <<collection_trakt>>
     letterboxd_list: <<collection_letterbox>>
-    url_poster: <<poster>>
-    url_background: <<background>>
     sort_title: <<collection_name>>
     collection_order: <<order>>
     item_assets: true
