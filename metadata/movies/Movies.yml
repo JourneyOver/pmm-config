@@ -1,0 +1,88 @@
+external_templates:
+  - file: ./config/metadata/_templates.yml
+
+  ###########################
+  #        Collections      #
+  ###########################
+
+collections:
+  ######################################################
+  #                TMDB Collections                    #
+  ######################################################
+
+  28 Days/Weeks Later:
+    template: {name: Collection, collection: 1565, summary: 1565, order: release}
+    name_mapping: 28 Days-Weeks Later
+
+  Alice in Wonderland:
+    template: {name: Collection, collection: 261307, summary: 261307, order: release}
+
+  Back to the Future:
+    template: {name: Collection, collection: 264, summary: 264, order: release}
+
+  Bad Boys:
+    template: {name: Collection, collection: 14890, summary: 14890, order: release}
+
+  Before...:
+    template: {name: Collection, collection: 123800, summary: 123800, order: release}
+    name_mapping: Before
+
+  Deadpool:
+    template: {name: Collection, collection: 448150, extra_movie: 567604, summary: 448150, order: release}
+
+  Fantastic Beasts:
+    template: {name: Collection, collection: 435259, summary: 435259, order: release}
+
+  Harry Potter:
+    template: {name: Collection, collection: 1241, summary: 1241, order: release}
+
+  Honey, I Shrunk the Kids:
+    template: {name: Collection, collection: 72119, summary: 72119, order: release}
+
+  It:
+    template: {name: Collection, collection: 477962, summary: 477962, order: release}
+
+  John Wick:
+    template: {name: Collection, collection: 404609, summary: 404609, order: release}
+
+  Jumanji:
+    template: {name: Collection, collection: 495527, summary: 495527, order: release}
+
+  Jurassic Park:
+    template: {name: Collection, collection: 328, summary: 328, order: release}
+
+  Maze Runner:
+    template: {name: Collection, collection: 295130, summary: 295130, order: release}
+
+  Paddington:
+    template: {name: Collection, collection: 488924, summary: 488924, order: release}
+
+  Sinister:
+    template: {name: Collection, collection: 357173, summary: 357173, order: release}
+
+  The Mummy:
+    template: {name: Collection, collection: 1733, summary: 1733, order: release}
+
+  ######################################################
+  #                Trakt Collections                   #
+  ######################################################
+
+  DC Extended Universe:
+    template: {name: Collection, collection_trakt: https://trakt.tv/users/tetharion/lists/worlds-of-dc, order: release}
+    summary: The DC Extended Universe (DCEU) is a series of superhero films, distributed by Warner Bros. Pictures and based on characters that appear in American comic books by DC Comics. The shared universe, much like the original DC Universe in comic books and the television programs, was established by crossing over common plot elements, settings, cast, and characters.
+
+  Marvel Cinematic Universe:
+    template: {name: Collection, collection_trakt: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe, order: custom}
+    summary: The Marvel Cinematic Universe (MCU) is an American media franchise and shared universe centered on a series of superhero films produced by Marvel Studios. The films are based on characters that appear in American comic books published by Marvel Comics. The franchise also includes television series, short films, digital series, and literature. The shared universe, much like the original Marvel Universe in comic books, was established by crossing over common plot elements, settings, cast, and characters.
+
+  ######################################################
+  #                Letterboxd Collections              #
+  ######################################################
+
+  The Conjuring Universe:
+    template: {name: Collection, collection_letterbox: https://letterboxd.com/kitthren/list/the-conjuring-universe-timeline, order: custom}
+    summary: The films present a dramatization of the real-life cases of Ed and Lorraine Warren, paranormal investigators and authors associated with prominent yet controversial cases of haunting. The main series follows their attempts to assist people who find themselves possessed by demonic spirits, while the spin-off films focus on the origins of some of the entities the Warrens have encountered.
+
+  The MonsterVerse:
+    template: {name: Collection, collection_letterbox: https://letterboxd.com/journeyover/list/legendarys-monsterverse, order: release}
+    summary: The Monsterverse is an American media franchise and shared fictional universe that is centered on a series of monster films featuring Godzilla and King Kong, distributed by Warner Bros. and produced by Legendary Entertainment in partnership with Toho.
