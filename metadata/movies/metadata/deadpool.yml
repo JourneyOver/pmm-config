@@ -1,0 +1,17 @@
+metadata:
+
+#Deadpool:
+  "Deadpool (2016)":
+    title: "Deadpool"
+    year: 2016
+    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Deadpool/Deadpool_(2016)/poster.png
+
+  "Once Upon a Deadpool (2018)":
+    title: "Once Upon a Deadpool"
+    year: 2018
+    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Deadpool/Once_Upon_a_Deadpool_(2018)/poster.png
+
+  "Deadpool 2 (2018)":
+    title: "Deadpool 2"
+    year: 2018
+    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Deadpool/Deadpool_2_(2018)/poster.png
