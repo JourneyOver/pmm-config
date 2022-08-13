@@ -1,0 +1,10 @@
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Before...:
+    template: {name: Collection, collection: 123800, summary: 123800, order: release}
+    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Before/poster.png
+    url_background: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Before/background.png
+    name_mapping: Before

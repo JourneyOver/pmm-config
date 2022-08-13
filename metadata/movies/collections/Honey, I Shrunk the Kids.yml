@@ -1,0 +1,9 @@
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Honey, I Shrunk the Kids:
+    template: {name: Collection, collection: 72119, summary: 72119, order: release}
+    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Honey_I_Shrunk_the_Kids/poster.png
+    url_background: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Honey_I_Shrunk_the_Kids/background.png
