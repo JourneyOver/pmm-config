@@ -5,5 +5,3 @@ collections:
 
   Deadpool:
     template: {name: Collection, collection: 448150, extra_movie: 567604, summary: 448150, order: release}
-    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Deadpool/poster.png
-    url_background: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Deadpool/background.png
