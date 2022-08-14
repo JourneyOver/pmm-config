@@ -5,5 +5,3 @@ collections:
 
   Harry Potter:
     template: {name: Collection, collection: 1241, summary: 1241, order: release}
-    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Harry_Potter/poster.png
-    url_background: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Harry_Potter/background.png

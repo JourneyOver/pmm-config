@@ -5,5 +5,3 @@ collections:
 
   John Wick:
     template: {name: Collection, collection: 404609, summary: 404609, order: release}
-    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/John_Wick/poster.png
-    url_background: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/John_Wick/background.png

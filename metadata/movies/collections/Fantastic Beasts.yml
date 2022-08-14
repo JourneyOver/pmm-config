@@ -5,5 +5,3 @@ collections:
 
   Fantastic Beasts:
     template: {name: Collection, collection: 435259, summary: 435259, order: release}
-    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Fantastic_Beasts/poster.png
-    url_background: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Fantastic_Beasts/background.png

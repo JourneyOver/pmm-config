@@ -5,5 +5,3 @@ collections:
 
   Bad Boys:
     template: {name: Collection, collection: 14890, summary: 14890, order: release}
-    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Bad_Boys/poster.png
-    url_background: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Bad_Boys/background.png

@@ -5,5 +5,3 @@ collections:
 
   Back to the Future:
     template: {name: Collection, collection: 264, summary: 264, order: release}
-    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Back_to_the_Future/poster.png
-    url_background: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Back_to_the_Future/background.png

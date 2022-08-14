@@ -5,5 +5,3 @@ collections:
 
   It:
     template: {name: Collection, collection: 477962, summary: 477962, order: release}
-    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/It/poster.png
-    url_background: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/It/background.png

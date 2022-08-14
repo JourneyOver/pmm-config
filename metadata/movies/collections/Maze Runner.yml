@@ -5,5 +5,3 @@ collections:
 
   Maze Runner:
     template: {name: Collection, collection: 295130, summary: 295130, order: release}
-    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Maze_Runner/poster.png
-    url_background: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Maze_Runner/background.png

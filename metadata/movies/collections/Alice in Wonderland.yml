@@ -5,5 +5,3 @@ collections:
 
   Alice in Wonderland:
     template: {name: Collection, collection: 261307, summary: 261307, order: release}
-    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Alice_in_Wonderland/poster.png
-    url_background: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Alice_in_Wonderland/background.png

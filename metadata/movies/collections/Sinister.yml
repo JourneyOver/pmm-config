@@ -5,5 +5,3 @@ collections:
 
   Sinister:
     template: {name: Collection, collection: 357173, summary: 357173, order: release}
-    url_poster: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Sinister/poster.png
-    url_background: https://bitbucket.org/journeyover/pmm-config/raw/images/movies/Sinister/background.png
