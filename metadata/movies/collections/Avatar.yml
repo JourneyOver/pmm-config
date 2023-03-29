@@ -1,0 +1,7 @@
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Avatar:
+    template: {name: Collection, collection: 87096, summary: 87096, order: release}
