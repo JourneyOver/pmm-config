@@ -11,8 +11,10 @@ Paddington:
   Movies Missing (TMDb IDs):
     516729: Paddington in Peru
 DC Extended Universe:
+  Movies Added (TMDb IDs): {}
+  Movies Added:
+  - Shazam! Fury of the Gods
   Movies Missing (TMDb IDs):
-    594767: Shazam! Fury of the Gods (2023)
     572802: Aquaman and the Lost Kingdom (2023)
     298618: The Flash (2023)
     863808: Black Canary
@@ -30,3 +32,24 @@ Marvel Cinematic Universe:
     617127: Blade (2024)
     533535: Deadpool 3 (2024)
     822119: 'Captain America: New World Order (2024)'
+Before...:
+  Movies Missing (TMDb IDs):
+    76: Before Sunrise (1995)
+    80: Before Sunset (2004)
+    132344: Before Midnight (2013)
+Honey, I Shrunk the Kids:
+  Movies Missing (TMDb IDs):
+    9354: Honey, I Shrunk the Kids (1989)
+    11158: Honey, I Blew Up the Kid (1992)
+    11425: Honey, We Shrunk Ourselves (1997)
+Hocus Pocus:
+  Movies Missing (TMDb IDs):
+    10439: Hocus Pocus (1993)
+    642885: Hocus Pocus 2 (2022)
+Avatar:
+  Movies Missing (TMDb IDs):
+    76600: 'Avatar: The Way of Water (2022)'
+    83533: Avatar 3 (2024)
+    216527: Avatar 4 (2026)
+    19995: Avatar (2009)
+    393209: Avatar 5 (2028)
