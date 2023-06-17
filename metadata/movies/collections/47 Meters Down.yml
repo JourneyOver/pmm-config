@@ -1,0 +1,10 @@
+# Collection Posters from:
+# https://theposterdb.com/set/99359
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  47 Meters Down:
+    template: { name: Collection, collection: 635922, summary: 635922, order: release }

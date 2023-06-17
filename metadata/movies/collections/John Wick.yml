@@ -1,7 +1,10 @@
+# Collection Posters from:
+# https://theposterdb.com/set/209894
+
 external_templates:
   - file: metadata/_templates.yml
 
 collections:
 
   John Wick:
-    template: {name: Collection, collection: 404609, summary: 404609, order: release}
+    template: { name: Collection, collection: 404609, summary: 404609, order: release }

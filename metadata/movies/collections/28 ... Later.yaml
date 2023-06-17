@@ -1,0 +1,10 @@
+# Collection Posters from:
+# https://theposterdb.com/set/14295
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  28 ... Later:
+    template: { name: Collection, collection: 1565, summary: 1565, order: release }
