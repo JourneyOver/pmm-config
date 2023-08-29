@@ -1,0 +1,10 @@
+# Collection Posters from:
+# https://theposterdb.com/set/11
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  How to Train Your Dragon:
+    template: { name: Collection, collection: 89137, summary: 89137, order: release }

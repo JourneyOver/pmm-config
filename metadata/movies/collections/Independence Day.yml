@@ -1,0 +1,10 @@
+# Collection Posters from:
+# https://theposterdb.com/set/43300
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Independence Day:
+    template: { name: Collection, collection: 304378, summary: 304378, order: release }

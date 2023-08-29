@@ -1,0 +1,10 @@
+# Collection Posters from:
+# https://theposterdb.com/set/70110
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Frozen:
+    template: { name: Collection, collection: 386382, summary: 386382, order: release }

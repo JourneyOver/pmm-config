@@ -1,0 +1,10 @@
+# Collection Posters from:
+# https://theposterdb.com/set/4765
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Pacific Rim:
+    template: { name: Collection, collection: 363369, summary: 363369, order: release }

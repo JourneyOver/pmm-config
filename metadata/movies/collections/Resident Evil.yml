@@ -1,0 +1,10 @@
+# Collection Posters from:
+# https://theposterdb.com/set/180593
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Resident Evil:
+    template: { name: Collection, collection: 17255, extra_movie: 460458, summary: 17255, order: release }

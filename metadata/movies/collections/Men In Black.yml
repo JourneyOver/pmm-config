@@ -1,0 +1,11 @@
+# Collection Posters from:
+# https://theposterdb.com/set/9322
+# https://theposterdb.com/set/9323
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Men In Black:
+    template: { name: Collection, collection: 86055, summary: 86055, order: release }

@@ -1,0 +1,10 @@
+# Collection Posters from:
+# https://theposterdb.com/set/31506
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Happy Death Day:
+    template: { name: Collection, collection: 526380, summary: 526380, order: release }

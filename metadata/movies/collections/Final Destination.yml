@@ -1,0 +1,11 @@
+# Collection Posters from:
+# https://www.reddit.com/r/PlexPosters/comments/b9f348/collection_final_destination_20002011/
+# https://imgur.com/a/STDqBbQ
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Final Destination:
+    template: { name: Collection, collection: 8864, summary: 8864, order: release }
