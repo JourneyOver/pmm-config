@@ -15,6 +15,11 @@ Resident Evil:
     7737: 'Resident Evil: Extinction (2007)'
     173897: 'Resident Evil: The Final Chapter (2016)'
     460458: 'Resident Evil: Welcome to Raccoon City (2021)'
+Sherlock Holmes:
+  Movies Missing (TMDb IDs):
+    58574: 'Sherlock Holmes: A Game of Shadows (2011)'
+    10528: Sherlock Holmes (2009)
+    297708: Sherlock Holmes 3
 How to Train Your Dragon:
   Movies Missing (TMDb IDs):
     10191: How to Train Your Dragon (2010)
@@ -39,10 +44,11 @@ Frozen:
   Movies Missing (TMDb IDs):
     109445: Frozen (2013)
     330457: Frozen II (2019)
-    1024604: Frozen III
+    1024604: Frozen 3
+    1205983: Frozen 4
 Paddington:
   Movies Missing (TMDb IDs):
-    516729: Paddington in Peru
+    516729: Paddington in Peru (2024)
 Alice in Wonderland:
   Movies Missing (TMDb IDs):
     12155: Alice in Wonderland (2010)
@@ -52,7 +58,6 @@ Extraction:
     1141700: Extraction 3
 DC Extended Universe:
   Movies Missing (TMDb IDs):
-    572802: Aquaman and the Lost Kingdom (2023)
     565770: Blue Beetle (2023)
 Goosebumps:
   Movies Missing (TMDb IDs):
@@ -74,7 +79,7 @@ A Dog's Purpose:
     522518: A Dog's Journey (2019)
 Deadpool:
   Movies Missing (TMDb IDs):
-    533535: Deadpool 3 (2024)
+    533535: Deadpool & Wolverine (2024)
     567604: Once Upon a Deadpool (2018)
 47 Meters Down:
   Movies Missing (TMDb IDs):
@@ -106,6 +111,7 @@ Marvel Cinematic Universe:
   Movies Missing (TMDb IDs):
     170: 28 Days Later (2002)
     1562: 28 Weeks Later (2007)
+    1100988: 28 Years Later
 Before...:
   Movies Missing (TMDb IDs):
     76: Before Sunrise (1995)
