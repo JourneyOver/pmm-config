@@ -1,5 +1,7 @@
 # Collection Posters from:
 # https://www.reddit.com/r/PlexPosters/comments/198bcgf/irrgs_mcufoxstar_wars_poster_sets/
+# Not in use yet:
+# https://theposterdb.com/set/190193
 
 external_templates:
   - file: metadata/_templates.yml
