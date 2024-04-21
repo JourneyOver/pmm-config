@@ -1,0 +1,10 @@
+# Collection Posters from:
+# https://theposterdb.com/set/266318
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Kung Fu Panda:
+    template: { name: Collection, collection: 77816, summary: 77816, order: release }
